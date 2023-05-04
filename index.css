@@ -1,0 +1,7 @@
+.flx {
+  display: flex;
+}
+.flx-col {
+  display:flex;
+  flex-direction: column;
+}

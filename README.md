@@ -1,2 +1,5 @@
 # puzzle-page
-Pages puzzle.
+
+**You're cheating.**
+
+<sub>*you should go*</sub>
